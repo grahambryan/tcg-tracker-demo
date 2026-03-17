@@ -1,4 +1,4 @@
-const CACHE = 'tcg-v1773785039555';
+const CACHE = 'tcg-v1773788224452';
 const SHELL = ['./', 'manifest.json', 'icon-192.svg', 'icon-512.svg'];
 
 self.addEventListener('install', e => {
